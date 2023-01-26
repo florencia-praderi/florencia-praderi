@@ -1,4 +1,4 @@
-👋
+👋Hola hola
 
 Soy desarrolladora Front End y me encuentro en búsqueda de nuevas experiencias en este rubro.
 A lo largo de mi carrera profesional, aprendí un montón con respecto a Banca/Contabilidad/Atención, y en el 2021 decidí cambiar de rumbo y estudiar Desarrollo Front End.
