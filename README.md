@@ -1,8 +1,8 @@
 👋Hola hola
 
 Soy desarrolladora Front End y me encuentro en búsqueda de nuevas experiencias en este rubro.
-A lo largo de mi carrera profesional, aprendí un montón con respecto a Banca/Contabilidad/Atención, y en el 2021 decidí cambiar de rumbo y estudiar Desarrollo Front End. En Octubre comencé mi primer experiencia como Frontend en Bosonit, donde aprendí tanto de Front con Angular, como de UX/UI. Mi período de prácticas finalizó y me encuentro buscando una empresa donde desarrollarme profesionalmente.
-Me apasiona el mundo tecnológico y la programación y me encantaría dedicarme 100% a esto.✨
+A lo largo de mi carrera profesional, aprendí un montón con respecto a Banca/Contabilidad/Atención, y en el 2021 decidí cambiar de rumbo y estudiar Desarrollo Frontend. En Octubre comencé mi primer experiencia como Frontend en Bosonit, donde aprendí tanto de Front con Angular, como de UX/UI. Mi período de prácticas finalizó y me encuentro buscando una empresa donde desarrollarme profesionalmente.
+Mi pasión es crear soluciones tecnológicas que satisfagan las necesidades y deseos de los usuarios y continuar desarrollando mis habilidades para trabajar en proyectos innovadores.✨
 
 - 🔭 Soy uruguaya radicada en Barcelona.
 - 🌱 Sigo capacitandome día a día en proyectos personales. 
