@@ -1,11 +1,11 @@
 👋Hola hola
 
-Soy desarrolladora Frontend y me encuentro en búsqueda de nuevas experiencias en este rubro.
-A lo largo de mi carrera profesional, aprendí un montón con respecto a Banca/Contabilidad/Atención, y en el 2021 decidí cambiar de rumbo y estudiar Desarrollo Frontend. En Octubre comencé mi primer experiencia como Frontend en Bosonit, donde aprendí tanto de Front con Angular, como de UX/UI. 
+Soy profesional en Ciencias Económicas y desarrolladora Frontend y me encuentro en búsqueda de nuevas experiencias en este ámbito.
+A lo largo de mi carrera profesional, aprendí un montón en Banca/Contabilidad/Atención, y en 2021 decidí ampliar mis conocimientos capacitandome en Desarrollo Frontend. En Octubre comencé mi primer experiencia como Frontend en Bosonit, donde aprendí tanto de Front con Angular, como de diseño UX/UI. 
 
-Actualmente, me desempeño como freelance, trabajando en un proyecto desarrollado con Angular y colaborando estrechamente con el equipo. Mi enfoque actual está en maquetar diseños de Figma y garantizar una integración fluida de componentes Frontend. Esta experiencia me ha permitido aprender de manera holística y estoy emocionada por seguir formándome en nuevos proyectos y colaborar en equipos con un fuerte deseo de crecimiento.
+Actualmente, me desempeño como desarrolladora freelance, trabajando en un proyecto desarrollado con Angular y TypeScript y colaborando estrechamente con el equipo. Mi enfoque actual está en maquetar diseños de Figma y garantizar una integración fluida de componentes Frontend. Esta experiencia me ha permitido aprender de manera holística y estoy emocionada por seguir formándome en nuevos proyectos y colaborar en equipos con un fuerte deseo de crecimiento.
 
-Mi pasión es crear soluciones tecnológicas que satisfagan las necesidades y deseos de los usuarios y continuar desarrollando mis habilidades para trabajar en proyectos innovadores.✨
+Mi pasión es crear soluciones tecnológicas que no solo satisfagan las necesidades y deseos de los usuarios, sino que también optimicen procesos analíticos y financieros. Me impulsa el deseo de continuar desarrollando mis habilidades para trabajar en proyectos innovadores que fusionen la excelencia tecnológica con una perspectiva analítica y financiera sólida. ✨
 
 - 🔭 Soy uruguaya radicada en Barcelona.
 - 🌱 Sigo capacitandome día a día en proyectos personales. 
@@ -16,3 +16,4 @@ Mi pasión es crear soluciones tecnológicas que satisfagan las necesidades y de
 - 😄 Cuento con un nivel B2 de Inglés.
 - ⚡ Sobre mi vida personal, me gusta mucho leer, ir a la playa y estar al aire libre, hacer deporte y compartir tiempo con mi familia/amigos.
 
+¡Preparada para enfrentar nuevos desafíos y aportar mi experiencia integral a un equipo! 💻📊✨
